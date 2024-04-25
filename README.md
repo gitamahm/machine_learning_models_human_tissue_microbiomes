@@ -1,0 +1,1 @@
+This repo contains code for building Machine Learning models of the human tissue microbiome. It uses the Tabula Sapiens Microbiome dataset which is provided here: https://www.biorxiv.org/content/10.1101/2022.10.11.511790v2
